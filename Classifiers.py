@@ -1,5 +1,5 @@
 import gym
-from sklearn.tree import DecisionTreeClassifier
+from keras import optimizers
 
 class Classififer:
     def __init__(self):
