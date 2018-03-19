@@ -1,4 +1,4 @@
-# intruisionDetectionSystem
+# IntruisionDetectionSystem with RL
 This is our Master thesis project which is titled:
 Analysis of Network Intrusion Detection System (NIDS) with Machine Learning
 
