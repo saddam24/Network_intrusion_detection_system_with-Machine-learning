@@ -6,7 +6,7 @@ We are going to detect zero day attack using reinforcement learning algorithm.
 
 Here we  used Deep Q network (DQN) algorithm to detect DdoS , Probe , R2L  and spoofing attack.
 
-Intsllation dependdencies:
+Intsllation dependencies:
 sudo apt instal pip
 
 pip intall gym,boto3,sklearn,tensorfow,keras,matplotlib,numpy,pandas
